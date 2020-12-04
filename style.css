@@ -1,0 +1,37 @@
+        
+        /*h1 {
+            color: red;
+        }*/
+        .header{
+            color : blue;
+            background-color : skyblue;
+            display : flex;
+            justify-content : space-between;
+            border : solid;
+        }
+        .proab{
+            color : pink;
+            background-color : cyan;
+            display : flex;
+            border : solid;
+        }
+        
+        .grid{
+            background-color : cyan;
+            display : flex;
+            flex-wrap : wrap;
+            justify-content : space-evenly;
+            color : red;
+            border : solid;
+        }
+        .footer{
+            display : flex;
+            justify-content : flex-end;
+            
+        }
+
+        p,h2{
+            text-align : center;
+            
+        }
+        
